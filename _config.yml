@@ -99,10 +99,10 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "Ro4mainWiki Dictionary",
+        title: "Ro4main Wiki Dictionary",
         href: "https://github.com/globien/globien.github.io/wiki"
     },{
-        title: "Ro4mainCommunity",
+        title: "Ro4main Community",
         href: "https://globien.fandom.com/wiki/Globien_Wiki"
     },{
         title: "知乎：人造国际语",
